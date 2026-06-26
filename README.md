@@ -14,3 +14,31 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+npm run dev
+
+
+✔️ Installer React Router 
+✔️ Créer App.jsx avec les routes qui redirigent vers mes pages ---- A COMPLETER
+✔️ Installer Axios
+✔️ Créer le service api.js  
+✔️ Créer les pages ---- A COMPLETER
+✔️ Afficher la liste ---- A COMPLETER
+✔️ Ajouter un formulaire ---- A COMPLETER
+✔️ Ajouter la suppression ---- A COMPLETER
+✔️ Ajouter la modification ---- A COMPLETER
+
+
+ROUTES app.jsx
+CREATION PAGE 
+CREATION FORMULAIRE AJOUT
+CREATION FORMULAIRE MODIF
+
+ADRESSE ( et pour toutes les autres classes) :
+S'occuper des suppressions impossibles parce qu'elles sont liées (cascade)
+
+
+
+POUR LA LISTE DES ADRESSES AJOUTER LE SYNDIC LES OPERATIONS ET LE GEST ( pas son id)
+AJOUTER EN CLE ETRANGERE LE SYNDIC
