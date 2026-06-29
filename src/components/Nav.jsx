@@ -11,6 +11,7 @@ function Nav() {
     }}>
       <Link to="/adresses">Adresses</Link>
       <Link to="/gestionnaires">Gestionnaires</Link>
+      <Link to="/operations">Operations</Link>
     </nav>
   );
 }

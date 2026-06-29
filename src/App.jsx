@@ -10,7 +10,7 @@ import Nav from "./components/Nav";
 import Gestionnaires from "./pages/Gestionnaires";
 // import GestionnaireForm from "./pages/GestionnaireForm";
 
-// import Operation from "./pages/Operations";
+import Operations from "./pages/Operations";
 // import OperationForm from "./pages/OperationForm";
 
 // // Associations
@@ -37,7 +37,8 @@ function App() {
         <Route path = "/adresses/:id" element = {<AdresseForm/>} /> */}
 
         <Route path="/gestionnaires" element={<Gestionnaires/>} />
-        
+
+        <Route path="/operations" element={<Operations/>} />
 
 
 
